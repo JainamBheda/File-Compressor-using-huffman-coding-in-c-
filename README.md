@@ -64,6 +64,7 @@ g++ -std=c++17 \
 
 # On Windows (PowerShell or CMD):
 g++ -std=c++17 FrequencyCounter.cpp Huffman.cpp HuffmanUtility.cpp Node.cpp main.cpp -o huffman.exe
+```
 
 ## 📂 Project Structure
 
